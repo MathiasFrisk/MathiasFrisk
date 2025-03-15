@@ -9,12 +9,13 @@ I am a photographer, developer, and designer with a passion for coding, automati
 ## About me
 I am 20 years old and live in Porsgrunn, Norway. I have a strong interest in web development, automation, and photography. I enjoy working with various technologies to create efficient and visually appealing projects.
 
-## Technologies I'm learning at the moment 🌱
-* Improving my React.js skills
-* Exploring 3D rendering in web development
-* Enhancing automation scripts with Python
+## What I'm Currently Exploring ✨
+* I've transitioned all my web development to Framer for a more streamlined workflow
+* Experimenting with new design and animation techniques
+* Enhancing automation scripts with Python to optimize workflows
 
 ## Besides writing code
+* ⭐ Designing
 * :camera: Photography
 * :computer: Tech & Automation
 * :video_game: Gaming
